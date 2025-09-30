@@ -4,7 +4,9 @@ student = {
     "Age": 20,
     "Roll Number": "022",
     "Branch": "bca",
-    "College": "kle tech"
+    "College": "kle tech",
+    "phone no": "1234567890",
+    "grade": "a"
 }
 
 # Print student details
